@@ -1,3 +1,10 @@
+
+/* Question-2 
+Given a large integer as a string str, the task is find the number of matchsticks required to represent it. Input: str = “56” 
+Output: 11 
+Explanation: 5 sticks are required to represent 5 and 6 sticks are required to represent 6.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
